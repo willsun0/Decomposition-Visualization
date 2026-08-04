@@ -1,6 +1,6 @@
 # Matrix Motion
 
-An interactive, animated visual guide to principal component analysis (PCA), singular value decomposition (SVD), and QR decomposition.
+An interactive visual guide to principal component analysis (PCA), singular value decomposition (SVD), and QR decomposition.
 
 ## Deploy on GitHub Pages
 
