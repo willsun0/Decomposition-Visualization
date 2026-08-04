@@ -4,7 +4,7 @@ An interactive visual guide to principal component analysis (PCA), singular valu
 
 ## Deploy on GitHub Pages
 
-1. Create a brand new GitHub repository!
+1. Create a brand new GitHub repository.
 2. Upload `index.html`, `styles.css`, `app.js`, and this README to the repository root.
 3. Open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
